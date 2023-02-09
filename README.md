@@ -5,6 +5,7 @@
 # AIOSA: An Approach to the Automatic Identification of Obstructive Sleep Apnea Events based on Deep Learning     
 [![Paper](https://img.shields.io/badge/paper-Artificial%20Intelligence%20in%20Medicine-orange)](https://www.sciencedirect.com/science/article/pii/S0933365721001263)
 [![Dataset](https://img.shields.io/badge/Dataset-Nature%20Scientific%20Data-red)](https://doi.org/10.1038/s41597-022-01272-y)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/aiosa-an-approach-to-the-automatic/sleep-apnea-detection-on-apnea-ecg)](https://paperswithcode.com/sota/sleep-apnea-detection-on-apnea-ecg?p=aiosa-an-approach-to-the-automatic)
   
 </div>
 
